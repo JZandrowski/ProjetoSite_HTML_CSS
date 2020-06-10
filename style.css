@@ -1,0 +1,272 @@
+*{
+	margin:0px;
+	padding: 0px;
+	position: auto;
+	margin: 0 auto;
+}
+.topo-1{
+	background: #8B4513	;
+	margin: 0;
+}
+
+.topo-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+	margin:0 auto;
+	margin-bottom: 0px;
+	position: relative;
+	margin: 0 auto;
+
+}
+
+
+.telefone {
+    color: #ffffff;
+    font: 10px calibri;
+    padding: 10px 0;
+	font-size: 15px;
+    vertical-align: left;
+	position: relative;
+	margin: 0 auto;
+}
+.email {
+    color: #ffffff;
+    font: 10px calibri;
+    padding: 10px 0;
+	font-size: 15px;
+    vertical-align: left;
+	position: relative;
+	margin: 0 auto;
+}
+.endereco {
+    color: #ffffff;
+    font: 10px calibri;
+    padding: 10px 0;
+	font-size: 15px;
+    vertical-align: left;
+	position: relative;
+	margin: 0 auto;
+}
+
+.topo{
+	height: 100px;
+	width:100%;
+	display:flex;
+	flex-wrap:wrap;
+	margin-top: 0px;
+	position: relative;
+	margin: 0 auto;
+
+}
+
+
+.menu{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	margin-top: 0px;
+	height: 100px;
+	position: relative;
+	margin: 0 auto;
+	float: left;
+	
+
+}
+.menu li{
+	display:inline-block;
+	list-style:none;
+	padding:0 10px;
+	margin-top: 0px;
+	margin: 0 auto;
+	float: left;
+
+}
+.menu li a{
+	padding:30px 10px 30px 10px;
+	font:18px calibri;
+	color:#2F4F4F;
+
+}
+.menu li a:hover{
+	color:#A52A2A;
+}
+
+.logo{
+	margin: 0 auto;
+	display:flex;
+	margin-top: 0px;
+	position: relative;
+	margin: 0 auto;
+	max-width: 400px;
+	float: left;
+}
+
+.imagemcentral{
+	justify-content:center;
+	display:flex;
+	margin-top: 0px;
+	position: relative;
+	margin: 0 auto;
+	float: center;
+}
+
+.imgcentral{
+	width: 100%;
+	height: 500px;
+	margin: 0;
+	position: relative;
+	margin: 0 auto;
+	
+	
+}
+
+.boxprincipal{
+	width: 100%;
+	display: inline-block;
+	position: relative;
+	margin: 0 auto;
+	
+}
+
+
+#esquerdo{
+	width: 40%;
+	float: left;
+	padding: 30px 50px 40px 100px;	
+	position: relative;
+	margin: 0 auto;
+	
+}
+
+#direito{
+	width: 40%;
+	float: right;
+	padding: 40px 50px 40px 10px;	
+	position: relative;
+	margin: 0 auto;
+}
+
+#bev{
+	color: #800000;
+	font-family: Berlin Sans FB Demi, Verdana;
+	font-weight: bold;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	text-shadow: 1px 1px 1px #000000;
+	font-size: 25px;
+	position: relative;
+	margin: 0 auto;
+}
+
+#nos{
+	color: #00008B;
+	font-family: Berlin Sans FB Demi, Verdana;
+	font-weight: bold;
+	letter-spacing: 1px;
+	word-spacing: 5px;
+	text-shadow: 1px 1px 1px #000000;
+	font-size: 22px;
+	position: relative;
+	margin: 0 auto;
+}
+#texto{
+	font-family: Arial, Verdana;
+	letter-spacing: 1px;
+	word-spacing: 5px;
+	font-size: 11px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.entrar{
+	font-family: Berlin Sans FB Demi, Verdana;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	padding: 12px 25px 12px 25px;
+	cursor: pointer;
+	background-color: #8B0000;
+	color: #FFFFFF;
+	margin-top: 15px;
+	position: relative;
+	margin: 0 auto;
+}
+
+section{
+	width: 100%;
+	max-width: 1200px;
+	height: auto;
+	overflow: hidden;
+	margin: none;
+	padding: 0;
+}
+.b2-1{
+	width: 33.33333%;
+	height: 500px;
+	background-color: #8B0000;
+	float: left;
+	text-align: center;
+	min-width: 400px;
+	
+
+
+}
+.b2-2{
+	width: 33.33333%;
+	height: 500px;
+	background-color: #8B0000;
+	float: left;
+	text-align: center;
+	min-width: 400px;
+}
+.b2-3{
+	width: 33.33333%;
+	height: 500px;
+	background-color: #8B0000;
+	float: left;
+	text-align: center;
+	min-width: 400px;
+}
+
+.img1{
+	width: 200px;
+	height: 200px;
+}
+
+.efeito{
+	background-color:rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	margin: 20px;
+	max-width: 360px;
+
+`}
+.titulo1{
+	color: #FFFFFF;
+	font-family: Berlin Sans FB Demi, Verdana;
+	font-weight: bold;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	font-size: 15px;
+	padding: 20px;
+	
+}
+.texto1{
+	color: #FFFFFF;
+	font-family: Berlin Sans FB Demi, Verdana;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	font-size: 10px;
+	padding: 10px 20px 20px 20px;
+	
+}
+
+@media only screen and (max-width: 1200px){
+	*{
+	width: 100%;
+	box-sizing: border-box;
+	}
+
+}
